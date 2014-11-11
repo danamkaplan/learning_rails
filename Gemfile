@@ -39,7 +39,7 @@ gem 'spring',        group: :development
 group :development, :test do
   gem 'sqlite3'
   gem 'byebug'
-  gem 'web_console'
+  #gem 'web_console'
   gem 'spring'
 end
 
